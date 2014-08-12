@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_web"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Ver en web"/>
+    <item android:id="@+id/action_download"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Archivar"/>
+    <item android:id="@+id/action_share"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Compartir"/>
+</menu>
